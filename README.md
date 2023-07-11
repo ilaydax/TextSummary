@@ -3,8 +3,13 @@
 # *TextSummary*
 </br>
 
- Graph-Based Text Summary
- 
+Graph-Based Text Summary
+</br>
+Bu projede verilen bir dokümandaki cümleler graf yapısına dönüştürülmüş ve bu graf modeli görselleştirilmiştir.
+</br>
+Ardından graf üzerindeki düğümler ile özet oluşturan bir algoritma oluşturulmuştur.
+</br>
+Grafta her bir cümle bir düğümü temsil etmektedir. Cümleler arasındaki anlamsal ilişki kurulup, cümleler skorlanmıştır. 
 </br>
 
 [doküman.txt](https://github.com/ilaydax/TextSummary/files/12012196/dokuman.txt)
