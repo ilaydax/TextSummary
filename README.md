@@ -5,11 +5,11 @@
 
 Graph-Based Text Summary
 </br>
-Bu projede verilen bir dokümandaki cümleler graf yapısına dönüştürülmüş ve bu graf modeli görselleştirilmiştir.
+In this project, this graphic model was visualized by transforming the sentences in a specific document into a graphic structure.
 </br>
-Ardından graf üzerindeki düğümler ile özet oluşturan bir algoritma oluşturulmuştur.
+Then an algorithm was created that generates a summary with the nodes in the graph.
 </br>
-Grafta her bir cümle bir düğümü temsil etmektedir. Cümleler arasındaki anlamsal ilişki kurulup, cümleler skorlanmıştır. 
+Each sentence in the graph represents a node. Sentences were scored by establishing a semantic relationship between the sentences.
 </br>
 
 [doküman.txt](https://github.com/ilaydax/TextSummary/files/12012196/dokuman.txt)
